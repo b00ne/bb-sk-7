@@ -1,1 +1,1 @@
-Proof that BB<sub>SK</sub>(7) = 41. See PDF for full proof. See python script and csv for enmueration and filtering process.
+Proof that BB<sub>SK</sub>(7) = 41. See PDF for full proof. See python scripts for enumeration process and csv for filtering results.
